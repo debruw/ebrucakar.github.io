@@ -4,63 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a91c9b71-90f8-4b5d-8081-e725f9009792" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a91c9b71-90f8-4b5d-8081-e725f9009792" name="Changes" comment="Name changes">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ebrucakarGithubio.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ebrucakarGithubio.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/social.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/urls.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/css.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/meta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/project_tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/share-page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidemenu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social_links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/posts_by_category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/project.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/test-page-image-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/preview.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/preview.gif" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap-material-design.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/projects.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/thickbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/loadingAnimation.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/macFFBgHack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/placeholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/screenshot-post-page.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/material.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/projects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/super-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/thickbox-compressed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/projects/placeholder.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722974085539</updated>
       <workItem from="1722974087400" duration="1635000" />
-      <workItem from="1722975748752" duration="624000" />
+      <workItem from="1722975748752" duration="1307000" />
     </task>
     <task id="LOCAL-00001" summary="Theme added.">
       <option name="closed" value="true" />
@@ -150,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722975549327</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New theme">
+      <option name="closed" value="true" />
+      <created>1722978223589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722978223589</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Name changes">
+      <option name="closed" value="true" />
+      <created>1722978502998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722978502998</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +136,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Theme added." />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="New theme" />
+    <MESSAGE value="Name changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Name changes" />
   </component>
 </project>
